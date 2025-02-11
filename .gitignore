@@ -1,0 +1,9 @@
+*.o
+*.exe
+*.d
+/build/
+/Debug/
+/Release/
+*.user
+*.suo
+.vscode
