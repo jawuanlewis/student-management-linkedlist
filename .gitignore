@@ -1,9 +1,22 @@
+# Compiled files
 *.o
+*.out
 *.exe
-*.d
-/build/
-/Debug/
-/Release/
-*.user
-*.suo
-.vscode
+a.out
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Build directories
+build/
+debug/
+release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
